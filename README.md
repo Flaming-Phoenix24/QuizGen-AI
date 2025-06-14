@@ -1,4 +1,4 @@
-# Final-Year-Project
+# QuizGen-AI
 
 This repo is the source code for implemenation of this [base paper](https://aclanthology.org/2021.findings-acl.199.pdf): *Multi-Lingual Question Generation with Language Agnostic Language Model* 
 
